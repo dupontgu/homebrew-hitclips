@@ -1,0 +1,1 @@
+![Cartridge Enclosure 3d Model](./hitclips_scad_v3_capture.png "3D Model of Enclosure")
